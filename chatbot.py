@@ -9,6 +9,12 @@ import time
 time.clock = time.time
 
 bob = ChatBot("SimpleBot")
+trainer = ListTrainer(bob)
+
+trainer.train(["What's your name?",
+                  "My name is Alex",
+               "How old are you?",
+                  "I am 2000 years old"])
 
 exit_conditions = ("quit", "exit")
 
