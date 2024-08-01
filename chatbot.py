@@ -13,7 +13,7 @@ Hamlet_train = []
 # this was done because I wasn't sure
 # if I could use the file in the re.findall 
 # function directly
-with open("Ham.txt") as file:
+with open("Hamlet.txt") as file:
   for line in file:
     for word in line.split():
       play += word + " "

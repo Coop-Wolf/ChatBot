@@ -1,0 +1,2319 @@
+1     I,2,267 [aside] A little more than kin, and less than kind!
+2     I,2,269 Not so, my lord. I am too much i' th' sun.
+3     I,2,276 Ay, madam, it is common.
+4     I,2,279 Seems, madam, Nay, it is. I know not 'seems.' 'Tis not alone my inky cloak, good mother,...
+5     I,2,323 I shall in all my best obey you, madam.
+6
+
+I,2,333
+
+O that this too too solid flesh would melt,
+Thaw, and resolve itself into a dew!...
+
+7
+
+I,2,366
+
+I am glad to see you well.
+Horatio!- or I do forget myself.
+
+8
+
+I,2,369
+
+Sir, my good friend- I'll change that name with you.
+And what make you from Wittenberg, Horatio?...
+
+9
+
+I,2,373
+
+I am very glad to see you.- [To Bernardo] Good even, sir.-
+But what, in faith, make you from Wittenberg?
+
+10
+
+I,2,376
+
+I would not hear your enemy say so,
+Nor shall you do my ear that violence...
+
+11
+
+I,2,383
+
+I prithee do not mock me, fellow student.
+I think it was to see my mother's wedding.
+
+12
+
+I,2,386
+
+Thrift, thrift, Horatio! The funeral bak'd meats
+Did coldly furnish forth the marriage tables....
+
+13
+
+I,2,392
+
+In my mind's eye, Horatio.
+
+14
+
+I,2,394
+
+He was a man, take him for all in all.
+I shall not look upon his like again.
+
+15
+
+I,2,397
+
+Saw? who?
+
+16
+
+I,2,399
+
+The King my father?
+
+17
+
+I,2,404
+
+For God's love let me hear!
+
+18
+
+I,2,422
+
+But where was this?
+
+19
+
+I,2,424
+
+Did you not speak to it?
+
+20
+
+I,2,432
+
+'Tis very strange.
+
+21
+
+I,2,436
+
+Indeed, indeed, sirs. But this troubles me.
+Hold you the watch to-night?
+
+22
+
+I,2,439
+
+Arm'd, say you?
+
+23
+
+I,2,441
+
+From top to toe?
+
+24
+
+I,2,443
+
+Then saw you not his face?
+
+25
+
+I,2,445
+
+What, look'd he frowningly.
+
+26
+
+I,2,447
+
+Pale or red?
+
+27
+
+I,2,449
+
+And fix'd his eyes upon you?
+
+28
+
+I,2,451
+
+I would I had been there.
+
+29
+
+I,2,453
+
+Very like, very like. Stay'd it long?
+
+30
+
+I,2,457
+
+His beard was grizzled- no?
+
+31
+
+I,2,460
+
+I will watch to-night.
+Perchance 'twill walk again.
+
+32
+
+I,2,463
+
+If it assume my noble father's person,
+I'll speak to it, though hell itself should gape...
+
+33
+
+I,2,474
+
+Your loves, as mine to you. Farewell.
+[Exeunt [all but Hamlet].]...
+
+34
+
+I,4,626
+
+The air bites shrewdly; it is very cold.
+
+35
+
+I,4,628
+
+What hour now?
+
+36
+
+I,4,635
+
+The King doth wake to-night and takes his rouse,
+Keeps wassail, and the swagg'ring upspring reels,...
+
+37
+
+I,4,641
+
+Ay, marry, is't;
+But to my mind, though I am native here...
+
+38
+
+I,4,668
+
+Angels and ministers of grace defend us!
+Be thou a spirit of health or goblin damn'd,...
+
+39
+
+I,4,695
+
+It will not speak. Then will I follow it.
+
+40
+
+I,4,697
+
+Why, what should be the fear?
+I do not set my life at a pin's fee;...
+
+41
+
+I,4,712
+
+It waves me still.
+Go on. I'll follow thee.
+
+42
+
+I,4,715
+
+Hold off your hands!
+
+43
+
+I,4,717
+
+My fate cries out
+And makes each petty artire in this body...
+
+44
+
+I,5,733
+
+Whither wilt thou lead me? Speak! I'll go no further.
+
+45
+
+I,5,735
+
+I will.
+
+46
+
+I,5,739
+
+Alas, poor ghost!
+
+47
+
+I,5,742
+
+Speak. I am bound to hear.
+
+48
+
+I,5,744
+
+What?
+
+49
+
+I,5,760
+
+O God!
+
+50
+
+I,5,762
+
+Murther?
+
+51
+
+I,5,765
+
+Haste me to know't, that I, with wings as swift
+As meditation or the thoughts of love,...
+
+52
+
+I,5,778
+
+O my prophetic soul!
+My uncle?
+
+53
+
+I,5,818
+
+O, horrible! O, horrible! most horrible!
+
+54
+
+I,5,830
+
+O all you host of heaven! O earth! What else?
+And shall I couple hell? Hold, hold, my heart!...
+
+55
+
+I,5,855
+
+So be it!
+
+56
+
+I,5,857
+
+Hillo, ho, ho, boy! Come, bird, come.
+
+57
+
+I,5,862
+
+No, you will reveal it.
+
+58
+
+I,5,865
+
+How say you then? Would heart of man once think it?
+But you'll be secret?
+
+59
+
+I,5,868
+
+There's neer a villain dwelling in all Denmark
+But he's an arrant knave.
+
+60
+
+I,5,872
+
+Why, right! You are in the right!
+And so, without more circumstance at all,...
+
+61
+
+I,5,880
+
+I am sorry they offend you, heartily;
+Yes, faith, heartily.
+
+62
+
+I,5,883
+
+Yes, by Saint Patrick, but there is, Horatio,
+And much offence too. Touching this vision here,...
+
+63
+
+I,5,891
+
+Never make known what you have seen to-night.
+
+64
+
+I,5,893
+
+Nay, but swear't.
+
+65
+
+I,5,897
+
+Upon my sword.
+
+66
+
+I,5,899
+
+Indeed, upon my sword, indeed.
+
+67
+
+I,5,902
+
+Aha boy, say'st thou so? Art thou there, truepenny?
+Come on! You hear this fellow in the cellarage....
+
+68
+
+I,5,906
+
+Never to speak of this that you have seen.
+Swear by my sword.
+
+69
+
+I,5,909
+
+Hic et ubique? Then we'll shift our ground.
+Come hither, gentlemen,...
+
+70
+
+I,5,915
+
+Well said, old mole! Canst work i' th' earth so fast?
+A worthy pioner! Once more remove, good friends."
+
+71
+
+I,5,918
+
+And therefore as a stranger give it welcome.
+There are more things in heaven and earth, Horatio,...
+
+72
+
+I,5,937
+
+Rest, rest, perturbed spirit! So, gentlemen,
+With all my love I do commend me to you;...
+
+73
+
+II,2,1277
+
+Well, God-a-mercy.
+
+74
+
+II,2,1279
+
+Excellent well. You are a fishmonger.
+
+75
+
+II,2,1281
+
+Then I would you were so honest a man.
+
+76
+
+II,2,1283
+
+Ay, sir. To be honest, as this world goes, is to be one man
+pick'd out of ten thousand.
+
+77
+
+II,2,1286
+
+For if the sun breed maggots in a dead dog, being a god
+kissing carrion- Have you a daughter?
+
+78
+
+II,2,1289
+
+Let her not walk i' th' sun. Conception is a blessing, but not
+as your daughter may conceive. Friend, look to't.
+
+79
+
+II,2,1296
+
+Words, words, words.
+
+80
+
+II,2,1298
+
+Between who?
+
+81
+
+II,2,1300
+
+Slanders, sir; for the satirical rogue says here that old men
+have grey beards; that their faces are wrinkled; their eyes...
+
+82
+
+II,2,1309
+
+Into my grave?
+
+83
+
+II,2,1316
+
+You cannot, sir, take from me anything that I will more
+willingly part withal- except my life, except my life, except my...
+
+84
+
+II,2,1321
+
+These tedious old fools!
+
+85
+
+II,2,1327
+
+My excellent good friends! How dost thou, Guildenstern? Ah,
+Rosencrantz! Good lads, how do ye both?
+
+86
+
+II,2,1332
+
+Nor the soles of her shoe?
+
+87
+
+II,2,1334
+
+Then you live about her waist, or in the middle of her
+favours?
+
+88
+
+II,2,1337
+
+In the secret parts of Fortune? O! most true! she is a
+strumpet. What news ?
+
+89
+
+II,2,1340
+
+Then is doomsday near! But your news is not true. Let me
+question more in particular. What have you, my good friends,...
+
+90
+
+II,2,1345
+
+Denmark's a prison.
+
+91
+
+II,2,1347
+
+A goodly one; in which there are many confines, wards, and
+dungeons, Denmark being one o' th' worst.
+
+92
+
+II,2,1350
+
+Why, then 'tis none to you; for there is nothing either good
+or bad but thinking makes it so. To me it is a prison.
+
+93
+
+II,2,1354
+
+O God, I could be bounded in a nutshell and count myself a
+king of infinite space, were it not that I have bad dreams.
+
+94
+
+II,2,1358
+
+A dream itself is but a shadow.
+
+95
+
+II,2,1361
+
+Then are our beggars bodies, and our monarchs and outstretch'd
+heroes the beggars' shadows. Shall we to th' court? for, by my...
+
+96
+
+II,2,1365
+
+No such matter! I will not sort you with the rest of my
+servants; for, to speak to you like an honest man, I am most...
+
+97
+
+II,2,1370
+
+Beggar that I am, I am even poor in thanks; but I thank you;
+and sure, dear friends, my thanks are too dear a halfpenny. Were...
+
+98
+
+II,2,1375
+
+Why, anything- but to th' purpose. You were sent for; and
+there is a kind of confession in your looks, which your modesties...
+
+99
+
+II,2,1380
+
+That you must teach me. But let me conjure you by the rights
+of our fellowship, by the consonancy of our youth, by the...
+
+100
+
+II,2,1386
+
+[aside] Nay then, I have an eye of you.- If you love me, hold
+not off.
+
+101
+
+II,2,1389
+
+I will tell you why. So shall my anticipation prevent your
+discovery, and your secrecy to the King and Queen moult no...
+
+102
+
+II,2,1405
+
+Why did you laugh then, when I said 'Man delights not me'?
+
+103
+
+II,2,1409
+
+He that plays the king shall be welcome- his Majesty shall
+have tribute of me; the adventurous knight shall use his foil and...
+
+104
+
+II,2,1418
+
+How chances it they travel? Their residence, both in
+reputation and profit, was better both ways.
+
+105
+
+II,2,1422
+
+Do they hold the same estimation they did when I was in the
+city? Are they so follow'd?
+
+106
+
+II,2,1425
+
+How comes it? Do they grow rusty?
+
+107
+
+II,2,1432
+
+What, are they children? Who maintains 'em? How are they
+escoted? Will they pursue the quality no longer than they can...
+
+108
+
+II,2,1442
+
+Is't possible?
+
+109
+
+II,2,1444
+
+Do the boys carry it away?
+
+110
+
+II,2,1446
+
+It is not very strange; for my uncle is King of Denmark, and
+those that would make mows at him while my father lived give...
+
+111
+
+II,2,1453
+
+Gentlemen, you are welcome to Elsinore. Your hands, come! Th'
+appurtenance of welcome is fashion and ceremony. Let me comply...
+
+112
+
+II,2,1460
+
+I am but mad north-north-west. When the wind is southerly I
+know a hawk from a handsaw.
+
+113
+
+II,2,1464
+
+Hark you, Guildenstern- and you too- at each ear a hearer!
+That great baby you see there is not yet out of his swaddling...
+
+114
+
+II,2,1469
+
+I will prophesy he comes to tell me of the players. Mark it.-
+You say right, sir; a Monday morning; twas so indeed.
+
+115
+
+II,2,1472
+
+My lord, I have news to tell you. When Roscius was an actor in Rome-
+
+116
+
+II,2,1474
+
+Buzz, buzz!
+
+117
+
+II,2,1476
+
+Then came each actor on his ass-
+
+118
+
+II,2,1483
+
+O Jephthah, judge of Israel, what a treasure hadst thou!
+
+119
+
+II,2,1485
+
+Why,
+'One fair daughter, and no more,...
+
+120
+
+II,2,1489
+
+Am I not i' th' right, old Jephthah?
+
+121
+
+II,2,1492
+
+Nay, that follows not.
+
+122
+
+II,2,1494
+
+Why,
+'As by lot, God wot,'...
+
+123
+
+II,2,1512
+
+I heard thee speak me a speech once, but it was never acted;
+or if it was, not above once; for the play, I remember, pleas'd...
+
+124
+
+II,2,1573
+
+It shall to the barber's, with your beard.- Prithee say on.
+He's for a jig or a tale of bawdry, or he sleeps. Say on; come to...
+
+125
+
+II,2,1577
+
+'The mobled queen'?
+
+126
+
+II,2,1595
+
+'Tis well. I'll have thee speak out the rest of this soon.-
+Good my lord, will you see the players well bestow'd? Do you...
+
+127
+
+II,2,1601
+
+God's bodykins, man, much better! Use every man after his
+desert, and who should scape whipping? Use them after your own...
+
+128
+
+II,2,1606
+
+Follow him, friends. We'll hear a play to-morrow.
+[Exeunt Polonius and Players [except the First].]...
+
+129
+
+II,2,1611
+
+We'll ha't to-morrow night. You could, for a need, study a
+speech of some dozen or sixteen lines which I would set down and...
+
+130
+
+II,2,1615
+
+Very well. Follow that lord- and look you mock him not.
+[Exit First Player.]...
+
+131
+
+II,2,1620
+
+Ay, so, God b' wi' ye!
+[Exeunt Rosencrantz and Guildenstern]...
+
+132
+
+III,1,1749
+
+To be, or not to be- that is the question:
+Whether 'tis nobler in the mind to suffer...
+
+133
+
+III,1,1786
+
+I humbly thank you; well, well, well.
+
+134
+
+III,1,1790
+
+No, not I!
+I never gave you aught.
+
+135
+
+III,1,1798
+
+Ha, ha! Are you honest?
+
+136
+
+III,1,1800
+
+Are you fair?
+
+137
+
+III,1,1802
+
+That if you be honest and fair, your honesty should admit no
+discourse to your beauty.
+
+138
+
+III,1,1805
+
+Ay, truly; for the power of beauty will sooner transform
+honesty from what it is to a bawd than the force of honesty can...
+
+139
+
+III,1,1810
+
+You should not have believ'd me; for virtue cannot so
+inoculate our old stock but we shall relish of it. I loved you...
+
+140
+
+III,1,1814
+
+Get thee to a nunnery! Why wouldst thou be a breeder of
+sinners? I am myself indifferent honest, but yet I could accuse...
+
+141
+
+III,1,1824
+
+Let the doors be shut upon him, that he may play the fool
+nowhere but in's own house. Farewell.
+
+142
+
+III,1,1827
+
+If thou dost marry, I'll give thee this plague for thy dowry:
+be thou as chaste as ice, as pure as snow, thou shalt not escape...
+
+143
+
+III,1,1834
+
+I have heard of your paintings too, well enough. God hath
+given you one face, and you make yourselves another. You jig, you...
+
+144
+
+III,2,1883
+
+Speak the speech, I pray you, as I pronounc'd it to you,
+trippingly on the tongue. But if you mouth it, as many of our...
+
+145
+
+III,2,1896
+
+Be not too tame neither; but let your own discretion be your
+tutor. Suit the action to the word, the word to the action; with...
+
+146
+
+III,2,1914
+
+O, reform it altogether! And let those that play your clowns
+speak no more than is set down for them. For there be of them...
+
+147
+
+III,2,1925
+
+Bid the players make haste, [Exit Polonius.] Will you two
+help to hasten them?
+
+148
+
+III,2,1929
+
+What, ho, Horatio!
+
+149
+
+III,2,1932
+
+Horatio, thou art e'en as just a man
+As e'er my conversation cop'd withal.
+
+150
+
+III,2,1935
+
+Nay, do not think I flatter;
+For what advancement may I hope from thee,...
+
+151
+
+III,2,1973
+
+They are coming to the play. I must be idle.
+Get you a place.
+
+152
+
+III,2,1976
+
+Excellent, i' faith; of the chameleon's dish. I eat the air,
+promise-cramm'd. You cannot feed capons so.
+
+153
+
+III,2,1980
+
+No, nor mine now. [To Polonius] My lord, you play'd once
+i' th' university, you say?
+
+154
+
+III,2,1983
+
+What did you enact?
+
+155
+
+III,2,1986
+
+It was a brute part of him to kill so capital a calf there. Be
+the players ready.
+
+156
+
+III,2,1990
+
+No, good mother. Here's metal more attractive.
+
+157
+
+III,2,1992
+
+Lady, shall I lie in your lap?
+
+158
+
+III,2,1995
+
+I mean, my head upon your lap?
+
+159
+
+III,2,1997
+
+Do you think I meant country matters?
+
+160
+
+III,2,1999
+
+That's a fair thought to lie between maids' legs.
+
+161
+
+III,2,2001
+
+Nothing.
+
+162
+
+III,2,2003
+
+Who, I?
+
+163
+
+III,2,2005
+
+O God, your only jig-maker! What should a man do but be merry?
+For look you how cheerfully my mother looks, and my father died...
+
+164
+
+III,2,2009
+
+So long? Nay then, let the devil wear black, for I'll have a
+suit of sables. O heavens! die two months ago, and not forgotten...
+
+165
+
+III,2,2030
+
+Marry, this is miching malhecho; it means mischief.
+
+166
+
+III,2,2033
+
+We shall know by this fellow. The players cannot keep counsel;
+they'll tell all.
+
+167
+
+III,2,2036
+
+Ay, or any show that you'll show him. Be not you asham'd to
+show, he'll not shame to tell you what it means.
+
+168
+
+III,2,2042
+
+Is this a prologue, or the posy of a ring?
+
+169
+
+III,2,2044
+
+As woman's love.
+
+170
+
+III,2,2073
+
+[aside] Wormwood, wormwood!
+Queen. The instances that second marriage move...
+
+171
+
+III,2,2116
+
+If she should break it now!
+
+172
+
+III,2,2124
+
+Madam, how like you this play?
+
+173
+
+III,2,2126
+
+O, but she'll keep her word.
+
+174
+
+III,2,2128
+
+No, no! They do but jest, poison in jest; no offence i' th'
+world.
+
+175
+
+III,2,2131
+
+'The Mousetrap.' Marry, how? Tropically. This play is the
+image of a murther done in Vienna. Gonzago is the duke's name;...
+
+176
+
+III,2,2139
+
+I could interpret between you and your love, if I could see
+the puppets dallying.
+
+177
+
+III,2,2142
+
+It would cost you a groaning to take off my edge.
+
+178
+
+III,2,2144
+
+So you must take your husbands.- Begin, murtherer. Pox, leave
+thy damnable faces, and begin! Come, the croaking raven doth...
+
+179
+
+III,2,2149
+
+He poisons him i' th' garden for's estate. His name's Gonzago.
+The story is extant, and written in very choice Italian. You...
+
+180
+
+III,2,2153
+
+What, frighted with false fire?
+
+181
+
+III,2,2159
+
+Why, let the strucken deer go weep,
+The hart ungalled play;...
+
+182
+
+III,2,2167
+
+A whole one I!
+For thou dost know, O Damon dear,...
+
+183
+
+III,2,2173
+
+O good Horatio, I'll take the ghost's word for a thousand
+pound! Didst perceive?
+
+184
+
+III,2,2176
+
+Upon the talk of the poisoning?
+
+185
+
+III,2,2178
+
+Aha! Come, some music! Come, the recorders!
+For if the King like not the comedy,...
+
+186
+
+III,2,2184
+
+Sir, a whole history.
+
+187
+
+III,2,2186
+
+Ay, sir, what of him?
+
+188
+
+III,2,2188
+
+With drink, sir?
+
+189
+
+III,2,2190
+
+Your wisdom should show itself more richer to signify this to
+the doctor; for me to put him to his purgation would perhaps...
+
+190
+
+III,2,2195
+
+I am tame, sir; pronounce.
+
+191
+
+III,2,2198
+
+You are welcome.
+
+192
+
+III,2,2203
+
+Sir, I cannot.
+
+193
+
+III,2,2205
+
+Make you a wholesome answer; my wit's diseas'd. But, sir, such
+answer as I can make, you shall command; or rather, as you say,...
+
+194
+
+III,2,2211
+
+O wonderful son, that can so stonish a mother! But is there no
+sequel at the heels of this mother's admiration? Impart.
+
+195
+
+III,2,2214
+
+We shall obey, were she ten times our mother. Have you any
+further trade with us?
+
+196
+
+III,2,2217
+
+And do still, by these pickers and stealers!
+
+197
+
+III,2,2221
+
+Sir, I lack advancement.
+
+198
+
+III,2,2224
+
+Ay, sir, but 'while the grass grows'- the proverb is something
+musty....
+
+199
+
+III,2,2231
+
+I do not well understand that. Will you play upon this pipe?
+
+200
+
+III,2,2233
+
+I pray you.
+
+201
+
+III,2,2235
+
+I do beseech you.
+
+202
+
+III,2,2237
+
+It is as easy as lying. Govern these ventages with your
+fingers and thumbs, give it breath with your mouth, and it will...
+
+203
+
+III,2,2242
+
+Why, look you now, how unworthy a thing you make of me! You
+would play upon me; you would seem to know my stops; you would...
+
+204
+
+III,2,2253
+
+Do you see yonder cloud that's almost in shape of a camel?
+
+205
+
+III,2,2255
+
+Methinks it is like a weasel.
+
+206
+
+III,2,2257
+
+Or like a whale.
+
+207
+
+III,2,2259
+
+Then will I come to my mother by-and-by.- They fool me to the
+top of my bent.- I will come by-and-by.
+
+208
+
+III,2,2262
+
+'By-and-by' is easily said.- Leave me, friends.
+[Exeunt all but Hamlet.]...
+
+209
+
+III,3,2356
+
+Now might I do it pat, now he is praying;
+And now I'll do't. And so he goes to heaven,...
+
+210
+
+III,4,2388
+
+[within] Mother, mother, mother!
+
+211
+
+III,4,2392
+
+Now, mother, what's the matter?
+
+212
+
+III,4,2394
+
+Mother, you have my father much offended.
+
+213
+
+III,4,2396
+
+Go, go, you question with a wicked tongue.
+
+214
+
+III,4,2398
+
+What's the matter now?
+
+215
+
+III,4,2400
+
+No, by the rood, not so!
+You are the Queen, your husband's brother's wife,...
+
+216
+
+III,4,2404
+
+Come, come, and sit you down. You shall not budge;
+You go not till I set you up a glass...
+
+217
+
+III,4,2410
+
+[draws] How now? a rat? Dead for a ducat, dead!
+
+218
+
+III,4,2414
+
+Nay, I know not. Is it the King?
+
+219
+
+III,4,2416
+
+A bloody deed- almost as bad, good mother,
+As kill a king, and marry with his brother.
+
+220
+
+III,4,2419
+
+Ay, lady, it was my word.
+[Lifts up the arras and sees Polonius.]...
+
+221
+
+III,4,2431
+
+Such an act
+That blurs the grace and blush of modesty;...
+
+222
+
+III,4,2445
+
+Look here upon th's picture, and on this,
+The counterfeit presentment of two brothers....
+
+223
+
+III,4,2485
+
+Nay, but to live
+In the rank sweat of an enseamed bed,...
+
+224
+
+III,4,2492
+
+A murtherer and a villain!
+A slave that is not twentieth part the tithe...
+
+225
+
+III,4,2500
+
+A king of shreds and patches!-
+Save me and hover o'er me with your wings,...
+
+226
+
+III,4,2504
+
+Do you not come your tardy son to chide,
+That, laps'd in time and passion, lets go by...
+
+227
+
+III,4,2514
+
+How is it with you, lady?
+
+228
+
+III,4,2524
+
+On him, on him! Look you how pale he glares!
+His form and cause conjoin'd, preaching to stones,...
+
+229
+
+III,4,2531
+
+Do you see nothing there?
+
+230
+
+III,4,2533
+
+Nor did you nothing hear?
+
+231
+
+III,4,2535
+
+Why, look you there! Look how it steals away!
+My father, in his habit as he liv'd!...
+
+232
+
+III,4,2542
+
+Ecstasy?
+My pulse as yours doth temperately keep time...
+
+233
+
+III,4,2560
+
+O, throw away the worser part of it,
+And live the purer with the other half,...
+
+234
+
+III,4,2585
+
+Not this, by no means, that I bid you do:
+Let the bloat King tempt you again to bed;...
+
+235
+
+III,4,2604
+
+I must to England; you know that?
+
+236
+
+III,4,2607
+
+There's letters seal'd; and my two schoolfellows,
+Whom I will trust as I will adders fang'd,...
+
+237
+
+IV,2,2677
+
+Safely stow'd.
+
+238
+
+IV,2,2679
+
+But soft! What noise? Who calls on Hamlet? O, here they
+
+239
+
+IV,2,2683
+
+Compounded it with dust, whereto 'tis kin.
+
+240
+
+IV,2,2686
+
+Do not believe it.
+
+241
+
+IV,2,2688
+
+That I can keep your counsel, and not mine own. Besides, to be
+demanded of a sponge, what replication should be made by the son...
+
+242
+
+IV,2,2692
+
+Ay, sir; that soaks up the King's countenance, his rewards,
+his authorities. But such officers do the King best service in...
+
+243
+
+IV,2,2699
+
+I am glad of it. A knavish speech sleeps in a foolish ear.
+
+244
+
+IV,2,2702
+
+The body is with the King, but the King is not with the body.
+The King is a thing-
+
+245
+
+IV,2,2705
+
+Of nothing. Bring me to him. Hide fox, and all after.
+
+246
+
+IV,3,2729
+
+At supper.
+
+247
+
+IV,3,2731
+
+Not where he eats, but where he is eaten. A certain
+convocation of politic worms are e'en at him. Your worm is your...
+
+248
+
+IV,3,2738
+
+A man may fish with the worm that hath eat of a king, and eat
+of the fish that hath fed of that worm.
+
+249
+
+IV,3,2741
+
+Nothing but to show you how a king may go a progress through
+the guts of a beggar.
+
+250
+
+IV,3,2744
+
+In heaven. Send thither to see. If your messenger find him not
+there, seek him i' th' other place yourself. But indeed, if you...
+
+251
+
+IV,3,2749
+
+He will stay till you come.
+
+252
+
+IV,3,2758
+
+For England?
+
+253
+
+IV,3,2760
+
+Good.
+
+254
+
+IV,3,2762
+
+I see a cherub that sees them. But come, for England!
+Farewell, dear mother.
+
+255
+
+IV,3,2765
+
+My mother! Father and mother is man and wife; man and wife is
+one flesh; and so, my mother. Come, for England!
+
+256
+
+IV,4,2796
+
+Good sir, whose powers are these?
+
+257
+
+IV,4,2798
+
+How purpos'd, sir, I pray you?
+
+258
+
+IV,4,2800
+
+Who commands them, sir?
+
+259
+
+IV,4,2802
+
+Goes it against the main of Poland, sir,
+Or for some frontier?
+
+260
+
+IV,4,2810
+
+Why, then the Polack never will defend it.
+
+261
+
+IV,4,2812
+
+Two thousand souls and twenty thousand ducats
+Will not debate the question of this straw....
+
+262
+
+IV,4,2819
+
+I'll be with you straight. Go a little before.
+[Exeunt all but Hamlet.]...
+
+263
+
+V,1,3407
+
+Has this fellow no feeling of his business, that he sings at
+grave-making?
+
+264
+
+V,1,3410
+
+'Tis e'en so. The hand of little employment hath the daintier
+sense.
+
+265
+
+V,1,3418
+
+That skull had a tongue in it, and could sing once. How the
+knave jowls it to the ground,as if 'twere Cain's jawbone, that...
+
+266
+
+V,1,3424
+
+Or of a courtier, which could say 'Good morrow, sweet lord!
+How dost thou, good lord?' This might be my Lord Such-a-one, that...
+
+267
+
+V,1,3429
+
+Why, e'en so! and now my Lady Worm's, chapless, and knock'd
+about the mazzard with a sexton's spade. Here's fine revolution,...
+
+268
+
+V,1,3440
+
+There's another. Why may not that be the skull of a lawyer?
+Where be his quiddits now, his quillets, his cases, his tenures,...
+
+269
+
+V,1,3454
+
+Is not parchment made of sheepskins?
+
+270
+
+V,1,3456
+
+They are sheep and calves which seek out assurance in that. I
+will speak to this fellow. Whose grave's this, sirrah?
+
+271
+
+V,1,3461
+
+I think it be thine indeed, for thou liest in't.
+
+272
+
+V,1,3464
+
+Thou dost lie in't, to be in't and say it is thine. 'Tis for
+the dead, not for the quick; therefore thou liest.
+
+273
+
+V,1,3467
+
+What man dost thou dig it for?
+
+274
+
+V,1,3469
+
+What woman then?
+
+275
+
+V,1,3471
+
+Who is to be buried in't?
+
+276
+
+V,1,3473
+
+How absolute the knave is! We must speak by the card, or
+equivocation will undo us. By the Lord, Horatio, this three years...
+
+277
+
+V,1,3480
+
+How long is that since?
+
+278
+
+V,1,3484
+
+Ay, marry, why was be sent into England?
+
+279
+
+V,1,3487
+
+Why?
+
+280
+
+V,1,3490
+
+How came he mad?
+
+281
+
+V,1,3492
+
+How strangely?
+
+282
+
+V,1,3494
+
+Upon what ground?
+
+283
+
+V,1,3497
+
+How long will a man lie i' th' earth ere he rot?
+
+284
+
+V,1,3502
+
+Why he more than another?
+
+285
+
+V,1,3507
+
+Whose was it?
+
+286
+
+V,1,3509
+
+Nay, I know not.
+
+287
+
+V,1,3513
+
+This?
+
+288
+
+V,1,3515
+
+Let me see. [Takes the skull.] Alas, poor Yorick! I knew him,
+Horatio. A fellow of infinite jest, of most excellent fancy. He...
+
+289
+
+V,1,3527
+
+Dost thou think Alexander look'd o' this fashion i' th' earth?
+
+290
+
+V,1,3529
+
+And smelt so? Pah!
+
+291
+
+V,1,3532
+
+To what base uses we may return, Horatio! Why may not
+imagination trace the noble dust of Alexander till he find it...
+
+292
+
+V,1,3536
+
+No, faith, not a jot; but to follow him thither with modesty
+enough, and likelihood to lead it; as thus: Alexander died,...
+
+293
+
+V,1,3555
+
+That is Laertes,
+A very noble youth. Mark.
+
+294
+
+V,1,3577
+
+What, the fair Ophelia?
+
+295
+
+V,1,3593
+
+[comes forward] What is he whose grief
+Bears such an emphasis? whose phrase of sorrow...
+
+296
+
+V,1,3600
+
+Thou pray'st not well.
+I prithee take thy fingers from my throat;...
+
+297
+
+V,1,3610
+
+Why, I will fight with him upon this theme
+Until my eyelids will no longer wag.
+
+298
+
+V,1,3613
+
+I lov'd Ophelia. Forty thousand brothers
+Could not (with all their quantity of love)...
+
+299
+
+V,1,3618
+
+'Swounds, show me what thou't do.
+Woo't weep? woo't fight? woo't fast? woo't tear thyself?...
+
+300
+
+V,1,3634
+
+Hear you, sir!
+What is the reason that you use me thus?...
+
+301
+
+V,2,3650
+
+So much for this, sir; now shall you see the other.
+You do remember all the circumstance?
+
+302
+
+V,2,3653
+
+Sir, in my heart there was a kind of fighting
+That would not let me sleep. Methought I lay...
+
+303
+
+V,2,3662
+
+Up from my cabin,
+My sea-gown scarf'd about me, in the dark...
+
+304
+
+V,2,3677
+
+Here's the commission; read it at more leisure.
+But wilt thou bear me how I did proceed?
+
+305
+
+V,2,3680
+
+Being thus benetted round with villanies,
+Or I could make a prologue to my brains,...
+
+306
+
+V,2,3690
+
+An earnest conjuration from the King,
+As England was his faithful tributary,...
+
+307
+
+V,2,3701
+
+Why, even in that was heaven ordinant.
+I had my father's signet in my purse,...
+
+308
+
+V,2,3710
+
+Why, man, they did make love to this employment!
+They are not near my conscience; their defeat...
+
+309
+
+V,2,3717
+
+Does it not, thinks't thee, stand me now upon-
+He that hath kill'd my king, and whor'd my mother;...
+
+310
+
+V,2,3727
+
+It will be short; the interim is mine,
+And a man's life is no more than to say 'one.'...
+
+311
+
+V,2,3738
+
+I humbly thank you, sir. [Aside to Horatio] Dost know this
+waterfly?
+
+312
+
+V,2,3741
+
+[aside to Horatio] Thy state is the more gracious; for 'tis a
+vice to know him. He hath much land, and fertile. Let a beast be...
+
+313
+
+V,2,3747
+
+I will receive it, sir, with all diligence of spirit. Put your
+bonnet to his right use. 'Tis for the head.
+
+314
+
+V,2,3750
+
+No, believe me, 'tis very cold; the wind is northerly.
+
+315
+
+V,2,3752
+
+But yet methinks it is very sultry and hot for my complexion.
+
+316
+
+V,2,3756
+
+I beseech you remember.
+
+317
+
+V,2,3764
+
+Sir, his definement suffers no perdition in you; though, I
+know, to divide him inventorially would dozy th' arithmetic of...
+
+318
+
+V,2,3771
+
+The concernancy, sir? Why do we wrap the gentleman in our more
+rawer breath?
+
+319
+
+V,2,3776
+
+What imports the nomination of this gentleman?
+
+320
+
+V,2,3780
+
+Of him, sir.
+
+321
+
+V,2,3782
+
+I would you did, sir; yet, in faith, if you did, it would not
+much approve me. Well, sir?
+
+322
+
+V,2,3785
+
+I dare not confess that, lest I should compare with him in
+excellence; but to know a man well were to know himself.
+
+323
+
+V,2,3789
+
+What's his weapon?
+
+324
+
+V,2,3791
+
+That's two of his weapons- but well.
+
+325
+
+V,2,3798
+
+What call you the carriages?
+
+326
+
+V,2,3802
+
+The phrase would be more germane to the matter if we could
+carry cannon by our sides. I would it might be hangers till then....
+
+327
+
+V,2,3811
+
+How if I answer no?
+
+328
+
+V,2,3813
+
+Sir, I will walk here in the hall. If it please his Majesty,
+it is the breathing time of day with me. Let the foils be...
+
+329
+
+V,2,3819
+
+To this effect, sir, after what flourish your nature will.
+
+330
+
+V,2,3821
+
+Yours, yours. [Exit Osric.] He does well to commend it
+himself; there are no tongues else for's turn.
+
+331
+
+V,2,3824
+
+He did comply with his dug before he suck'd it. Thus has he,
+and many more of the same bevy that I know the drossy age dotes...
+
+332
+
+V,2,3835
+
+I am constant to my purposes; they follow the King's pleasure.
+If his fitness speaks, mine is ready; now or whensoever, provided...
+
+333
+
+V,2,3839
+
+In happy time.
+
+334
+
+V,2,3842
+
+She well instructs me.
+
+335
+
+V,2,3845
+
+I do not think so. Since he went into France I have been in
+continual practice. I shall win at the odds. But thou wouldst not...
+
+336
+
+V,2,3849
+
+It is but foolery; but it is such a kind of gaingiving as
+would perhaps trouble a woman.
+
+337
+
+V,2,3853
+
+Not a whit, we defy augury; there's a special providence in
+the fall of a sparrow. If it be now, 'tis not to come; if it be...
+
+338
+
+V,2,3863
+
+Give me your pardon, sir. I have done you wrong;
+But pardon't, as you are a gentleman....
+
+339
+
+V,2,3891
+
+I embrace it freely,
+And will this brother's wager frankly play....
+
+340
+
+V,2,3895
+
+I'll be your foil, Laertes. In mine ignorance
+Your skill shall, like a star i' th' darkest night,...
+
+341
+
+V,2,3899
+
+No, by this hand.
+
+342
+
+V,2,3902
+
+Very well, my lord.
+Your Grace has laid the odds o' th' weaker side.
+
+343
+
+V,2,3907
+
+This likes me well. These foils have all a length?
+
+344
+
+V,2,3923
+
+Come on, sir.
+
+345
+
+V,2,3925
+
+One.
+
+346
+
+V,2,3927
+
+Judgment!
+
+347
+
+V,2,3934
+
+I'll play this bout first; set it by awhile.
+Come. [They play.] Another hit. What say you?
+
+348
+
+V,2,3941
+
+Good madam!
+
+349
+
+V,2,3945
+
+I dare not drink yet, madam; by-and-by.
+
+350
+
+V,2,3950
+
+Come for the third, Laertes! You but dally.
+Pray you pass with your best violence;...
+
+351
+
+V,2,3958
+
+Nay come! again! The Queen falls.
+
+352
+
+V,2,3963
+
+How does the Queen?
+
+353
+
+V,2,3967
+
+O villany! Ho! let the door be lock'd.
+Treachery! Seek it out.
+
+354
+
+V,2,3978
+
+The point envenom'd too?
+Then, venom, to thy work. Hurts the King.
+
+355
+
+V,2,3982
+
+Here, thou incestuous, murd'rous, damned Dane,
+Drink off this potion! Is thy union here?...
+
+356
+
+V,2,3990
+
+Heaven make thee free of it! I follow thee.
+I am dead, Horatio. Wretched queen, adieu!...
+
+357
+
+V,2,4002
+
+As th'art a man,
+Give me the cup. Let go! By heaven, I'll ha't....
+
+358
+
+V,2,4014
+
+O, I die, Horatio!
+The potent poison quite o'ercrows my spirit....
