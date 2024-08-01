@@ -22,10 +22,9 @@ Hamlet = (re.findall("([A-Z][a-z\s][^\\.!?]*[\\.!?])", play))
 
 # going through list and printing each line
 for line in Hamlet:
-  print(line)
   Hamlet_lines.append(line)
-  
 
+# going through to create and train Bot
 HamletBot = ChatBot("SimpleBot")
 trainer = ListTrainer(HamletBot)
 trainer.train(Hamlet_lines)
