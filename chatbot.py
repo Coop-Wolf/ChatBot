@@ -1,13 +1,12 @@
 import re
-
-#from chatterbot import ChatBot
-#from chatterbot.trainers import ListTrainer
-#import time
-#time.clock = time.time
+from chatterbot import ChatBot
+from chatterbot.trainers import ListTrainer
+import time
+time.clock = time.time
 
 #string to copy file
 play = ""
-Hamlet_train = []
+Hamlet_lines = []
 
 # opening file and copying to string 
 # this was done because I wasn't sure
@@ -24,14 +23,12 @@ Hamlet = (re.findall("([A-Z][a-z\s][^\\.!?]*[\\.!?])", play))
 # going through list and printing each line
 for line in Hamlet:
   print(line)
-  Hamlet_train.append(line)
+  Hamlet_lines.append(line)
+  
 
-#Hamtrainer.train(Hamlet_train)
-
-'''
 HamletBot = ChatBot("SimpleBot")
 trainer = ListTrainer(HamletBot)
-
+trainer.train(Hamlet_lines)
 trainer.train(["What's your name?",
                   "My name is Hamlet",
                "How old are you?",
@@ -40,7 +37,7 @@ trainer.train(["What's your name?",
                   "Fine, thank you",
                "Who killed you",
                   "Laertes, he poisoned me",
-               "What is the meaning of life?
+               "What is the meaning of life?"
                   "To know, love and imitate Jesus"
                "Goodbye"
                   "Bye"])
@@ -53,5 +50,4 @@ while True:
     break
   else:
    response = HamletBot.get_response(user_input)
-   print("Hamlet:", responce)
-'''
+   print("Hamlet:", response)
